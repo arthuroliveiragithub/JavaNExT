@@ -16,4 +16,6 @@ public class JavaEx2 {
 
         System.out.println("A média desses números é igual a " + media);
     }
+
+
 }
